@@ -1,6 +1,7 @@
 C     This is a 2-dimensional code for solving the kinematic dynamo
 C     equation in the solar convection zone with a meridional
 C     circulation. 
+c      TODO: Re-implementation of the code in Fortran 90
 
         implicit real*8(a-h,o-z)
         parameter (nmax=257,lmax=96)
