@@ -1,4 +1,5 @@
-c	Runge Kutta for set of first order differential equations
+c	Runge Kutta for set of first order differential equationsc
+c	Maybe Try Cranck-Nicholson for the same problem??
 c
  	PROGRAM oscillator
  	IMPLICIT none
